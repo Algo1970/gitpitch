@@ -32,6 +32,7 @@ reveal.jsのような下方向スライド
 ### 画像表示
 
 ![dog](img/dog.jpg)
+<img src="gitpitch/img/dog.JPG" alt="dog" title="I am a dog">
 
 ---
 
