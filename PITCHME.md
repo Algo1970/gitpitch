@@ -27,7 +27,13 @@ reveal.jsのような下方向スライド
 - CCC |
 - DDD |
 
+---
+
 ### 画像表示
+
+![dog](img/dog.jpg)
+
+---
 
 
 
