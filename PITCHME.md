@@ -118,6 +118,18 @@ http://www.github.com/
 
 ---?image=img/bluski.JPG
 ### background
+Custom size: not specified
+Image size defaults to 100% 100%
+
+---?image=img/bluski.JPG&size=auto
+### background
+Custom size: auto
+
+---?image=img/bluski.JPG&size=cover
+### background
+Custom size: cover
+
+
 
 
 
