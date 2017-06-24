@@ -133,8 +133,6 @@ Custom size: 90% 90%
 ### movie file
 <figcaption><a href="https://gitpitch.com/Algo1970/gitpitch#" style="color: white">https://gitpitch.com/Algo1970/gitpitch#</a></figcaption>
 
----
-### Video
-![Video](/img/ground.MOV)
+
 
 
