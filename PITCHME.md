@@ -4,6 +4,7 @@
 ### スライド2枚め
 * スライドはここ：[slide](https://gitpitch.com/Algo1970/gitpitch#)  
 * 参考サイト：[gitpitch](http://paiza.hatenablog.com/entry/2017/06/22/GitHub%E3%81%A0%E3%81%91%E3%81%A7%E8%B6%85%E9%AB%98%E6%A9%9F%E8%83%BD%E3%81%AA%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E8%B3%87%E6%96%99%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E3%80%8CGitPitch%E3%80%8D%E3%81%AE)
+* 参考サイト：[background](https://gitpitch.com/gitpitch/feature-demo/customize-image-size)
 
 ---
 ### スライド3枚目
@@ -112,19 +113,19 @@ http://www.github.com/
 Custom size: not specified
 Image size defaults to 100% 100%
 
-+++?image=img/bluski.JPG&size=auto
+---?image=img/bluski.JPG&size=auto
 ### background
 Custom size: auto
 
-+++?image=img/bluski.JPG&size=cover
+---?image=img/bluski.JPG&size=cover
 ### background
 Custom size: cover
 
-+++?image=img/bluski.JPG&size=auto 90%
+---?image=img/bluski.JPG&size=auto 90%
 ### background
 Custom size: auto 90%
 
-+++?image=img/bluski.JPG&size=90% 90%
+---?image=img/bluski.JPG&size=90% 90%
 ### background
 Custom size: 90% 90%
 
