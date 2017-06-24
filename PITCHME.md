@@ -118,15 +118,15 @@ Image size defaults to 100% 100%
 Custom size: auto
 
 ---?image=img/bluski.JPG&size=cover
-### background
+### <a style="color: white">background</a>
 Custom size: cover
 
 ---?image=img/bluski.JPG&size=auto 90%
-### background
+### <a style="color: white">background</a>
 Custom size: auto 90%
 
 ---?image=img/bluski.JPG&size=90% 90%
-### background
+### <a style="color: white">background</a>
 Custom size: 90% 90%
 
 ---?video=/img/ground.MOV
