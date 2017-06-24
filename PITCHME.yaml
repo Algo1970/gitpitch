@@ -14,13 +14,13 @@ slide-number: true
 highlight : monokai
 
 #スライド自動再生の設定
-autoslide : 5000
+#autoslide : 5000
 
 #スライドのループ設定
 loop : true
 
 #トランジションの設定
-transition : fade
+#transition : fade
 
 #チャート / グラフ機能の設定
 charts : true
