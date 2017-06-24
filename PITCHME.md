@@ -112,19 +112,19 @@ http://www.github.com/
 Custom size: not specified
 Image size defaults to 100% 100%
 
----?image=img/bluski.JPG&size=auto
++++?image=img/bluski.JPG&size=auto
 ### background
 Custom size: auto
 
----?image=img/bluski.JPG&size=cover
++++?image=img/bluski.JPG&size=cover
 ### background
 Custom size: cover
 
----?image=img/bluski.JPG&size=auto 90%
++++?image=img/bluski.JPG&size=auto 90%
 ### background
 Custom size: auto 90%
 
----?image=img/bluski.JPG&size=90% 90%
++++?image=img/bluski.JPG&size=90% 90%
 ### background
 Custom size: 90% 90%
 
