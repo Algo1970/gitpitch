@@ -10,6 +10,9 @@
 
 ### スライド3枚目
 
+*This text will be italic*
+_This will also be italic_
+
 ---
 
 ### 下方向のスライド
@@ -20,6 +23,21 @@ reveal.jsのような下方向スライド
 
 ### スライド3.1枚目
 
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+  
+---
+
+### スライド3.2枚目
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+  
 ---
 
 ### アニメーション表示
@@ -33,8 +51,8 @@ reveal.jsのような下方向スライド
 
 ### 画像表示
 
-![dog](img/dog.jpg)
-<img src="gitpitch/img/dog.JPG" alt="dog" title="I am a dog">
+![dog](/img/dog.jpg)
+<img src="/img/dog.JPG" alt="dog" title="I am a dog">
 
 ---
 
