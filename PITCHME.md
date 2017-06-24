@@ -92,7 +92,9 @@ http://www.github.com/
 ---
 
 ### emoji
-:smile:
+
+:smile: | :muscle:
 :muscle:
+
 ---
 
