@@ -7,16 +7,12 @@
 ---
 
 ### スライド3枚目
-
 *This text will be italic*
-_This will also be italic_
-
+**This text will be bold**
 ---
 
 ### 下方向のスライド
-
 reveal.jsのような下方向スライド
-
 +++
 
 ### スライド3.1枚目
@@ -33,7 +29,19 @@ reveal.jsのような下方向スライド
 1. Item 2
 1. Item 3
    1. Item 3a
-   1. Item 3b
+   1. Item 3b
++++
+
+### スライド3.3枚目
+I think you should use an
+`<addr>` element here instead.
++++
+
+### スライド3.4枚目
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
 ---
 
 ### アニメーション表示
@@ -49,6 +57,16 @@ reveal.jsのような下方向スライド
 
 ### 画像表示1.1
 <img src="/img/dog.JPG" title="dog" width="250">
+---
+
+### syntax highlighting
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
 ---
 
 
