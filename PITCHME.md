@@ -120,8 +120,9 @@ http://www.github.com/
 
 ### emoji
 
-:smile: | :muscle:
-:muscle:
+* :smile: 
+* :muscle: |
+* :muscle: |
 
 ---
 
