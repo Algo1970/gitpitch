@@ -2,7 +2,7 @@
 theme : sky
 
 #ロゴアイコンの設定
-logo : img/dog.jpg
+logo : /img/dog.JPG
 
 #フットノートの設定
 footnote : "© 2017 sample Inc."
