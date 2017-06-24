@@ -129,7 +129,9 @@ Custom size: auto 90%
 ### background
 Custom size: 90% 90%
 
----?video=img/ground.MOV
+---?video=/img/ground.MOV
 ### movie file
 
-
+---
+### Video
+![Video](/img/ground.MOV)
