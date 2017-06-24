@@ -51,8 +51,8 @@ reveal.jsのような下方向スライド
 
 ### 画像表示
 
-![dog](/img/dog.jpg)
-<img src="/img/dog.JPG" alt="dog" title="I am a dog" width="250" height="400">
+![dog](/img/dog.JPG)
+<img src="/img/dog.JPG" title="dog" width="250">
 
 ---
 
