@@ -131,7 +131,7 @@ Custom size: 90% 90%
 
 ---?video=/img/ground.MOV
 ### movie file
-<figcaption><a href="https://github.com/dropbox/pygerduty" style="color: white">https://github.com/dropbox/pygerduty</a></figcaption>
+<figcaption><a href="https://gitpitch.com/Algo1970/gitpitch#" style="color: white">https://gitpitch.com/Algo1970/gitpitch#</a></figcaption>
 
 ---
 ### Video
