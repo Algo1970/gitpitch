@@ -123,11 +123,11 @@ Custom size: cover
 
 ---?image=img/bluski.JPG&size=auto 90%
 ### <a style="color: white">background</a>
-Custom size: auto 90%
+<a style="color: white">Custom size: auto 90</a>
 
 ---?image=img/bluski.JPG&size=90% 90%
 ### <a style="color: white">background</a>
-Custom size: 90% 90%
+<a style="color: white">Custom size: 90% 90%</a>
 
 ---?video=/img/ground.MOV
 ### <a style="color: white">movie file</a>
