@@ -17,7 +17,7 @@ highlight : monokai
 #autoslide : 5000
 
 #スライドのループ設定
-loop : true
+#loop : true
 
 #トランジションの設定
 #transition : fade
