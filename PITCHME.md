@@ -125,6 +125,7 @@ http://www.github.com/
 ---?image=img/shigetomi.JPG&size=cover
 ### <a style="color: white">background</a>
 <a style="color: white">Custom size: cover</a>
+![Video](/img/ground.MOV)
 
 ---?image=img/soukisoba.JPG&size=auto 90%
 ### <a style="color: white">background</a>
