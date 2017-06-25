@@ -110,22 +110,21 @@ http://www.github.com/
 
 ---?image=img/bluesea.JPG
 ### <a style="color: white">background</a>
-Custom size: not specified
-Image size defaults to 100% 100%
-
+<a style="color: white">Custom size: not specified</a>
+<a style="color: white">Image size defaults to 100% 100%</a>
 
 +++?image=img/ishigaki.JPG
 ### <a style="color: white">background</a>
-Custom size: not specified
-Image size defaults to 100% 100%
+<a style="color: white">Custom size: not specified</a>
+<a style="color: white">Image size defaults to 100% 100%</a>
 
 ---?image=img/ishigakijima.JPG&size=auto
 ### <a style="color: white">background</a>
-Custom size: auto
+<a style="color: white">Custom size: auto</a>
 
 ---?image=img/shigetomi.JPG&size=cover
 ### <a style="color: white">background</a>
-Custom size: cover
+<a style="color: white">Custom size: cover</a>
 
 ---?image=img/soukisoba.JPG&size=auto 90%
 ### <a style="color: white">background</a>
