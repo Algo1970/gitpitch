@@ -1,6 +1,9 @@
 #テーマの設定 black, moon, night, beige, sky, and white
 theme : white
 
+#css
+#theme-override: assets/css/PITCHME.css
+
 #ロゴアイコンの設定
 logo : /img/dog_circle96.png
 
