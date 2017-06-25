@@ -108,20 +108,26 @@ http://www.github.com/
 * :muscle: |
 * :muscle: |
 
----?image=img/bluski.JPG
+---?image=img/shigetomi.JPG
 ### background
 Custom size: not specified
 Image size defaults to 100% 100%
 
----?image=img/bluski.JPG&size=auto
++++
+---?image=img/shigetomi.JPG
+### background
+Custom size: not specified
+Image size defaults to 100% 100%
+
+---?image=img/ishigakijima.JPG&size=auto
 ### background
 Custom size: auto
 
----?image=img/bluski.JPG&size=cover
+---?image=img/blusea.JPG&size=cover
 ### <a style="color: white">background</a>
 Custom size: cover
 
----?image=img/bluski.JPG&size=auto 90%
+---?image=img/ishigaki.JPG&size=auto 90%
 ### <a style="color: white">background</a>
 <a style="color: white">Custom size: auto 90</a>
 
