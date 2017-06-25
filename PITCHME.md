@@ -113,8 +113,8 @@ http://www.github.com/
 Custom size: not specified
 Image size defaults to 100% 100%
 
-+++
----?image=img/soukisoba.JPG
+
++++?image=img/soukisoba.JPG
 ### background
 Custom size: not specified
 Image size defaults to 100% 100%
@@ -123,7 +123,7 @@ Image size defaults to 100% 100%
 ### background
 Custom size: auto
 
----?image=img/blusea.JPG&size=cover
+---?image=img/bluesea.JPG&size=cover
 ### <a style="color: white">background</a>
 Custom size: cover
 
