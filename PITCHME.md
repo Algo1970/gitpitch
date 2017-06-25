@@ -108,26 +108,26 @@ http://www.github.com/
 * :muscle: |
 * :muscle: |
 
----?image=img/shigetomi.JPG
-### background
+---?image=img/bluesea.JPG
+### <a style="color: white">background</a>
 Custom size: not specified
 Image size defaults to 100% 100%
 
 
-+++?image=img/soukisoba.JPG
-### background
++++?image=img/ishigaki.JPG
+### <a style="color: white">background</a>
 Custom size: not specified
 Image size defaults to 100% 100%
 
 ---?image=img/ishigakijima.JPG&size=auto
-### background
+### <a style="color: white">background</a>
 Custom size: auto
 
----?image=img/bluesea.JPG&size=cover
+---?image=img/shigetomi.JPG&size=cover
 ### <a style="color: white">background</a>
 Custom size: cover
 
----?image=img/ishigaki.JPG&size=auto 90%
+---?image=img/soukisoba.JPG&size=auto 90%
 ### <a style="color: white">background</a>
 <a style="color: white">Custom size: auto 90</a>
 
