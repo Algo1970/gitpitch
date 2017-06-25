@@ -2,7 +2,7 @@
 theme : white
 
 #css
-#theme-override: assets/css/PITCHME.css
+theme-override: css/PITCHME.css
 
 #ロゴアイコンの設定
 logo : /img/dog_circle96.png
