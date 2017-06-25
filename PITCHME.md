@@ -128,11 +128,12 @@ http://www.github.com/
 
 +++
 ### youtube
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ux7OWM28F1U" frameborder="0" allowfullscreen></iframe>
 
 +++
 ### youtube
-![youtube](https://youtu.be/ux7OWM28F1U)
+![youtube](https://www.youtube.com/embed/ux7OWM28F1U)
 
 ---?image=img/soukisoba.JPG&size=auto 90%
 ### <a style="color: white">background</a>
