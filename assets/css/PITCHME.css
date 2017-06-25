@@ -1,4 +1,16 @@
 
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+
+.reveal .slides {
+    text-align: left;
+}
+.reveal .slides section>* {
+    margin-left: 0;
+    margin-right: 0;
+}
 
 /* Open Sans 
 @import url(#{$font-family-open-sans-import-path}); */
