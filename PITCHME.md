@@ -32,8 +32,11 @@ reveal.jsのような下方向スライド
 
 +++
 ### スライド3.3枚目
-I think you should use an
-`<addr>` element here instead.
+* あいうえお
+* **かきくけこ**
+* <h5>さしすせそ</h5>
+* 亜衣鵜絵尾
+* 下記区家子
 
 +++
 ### スライド3.4枚目
