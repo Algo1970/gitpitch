@@ -7,10 +7,28 @@
 .reveal .slides {
     text-align: left;
 }
+/*
 .reveal .slides section>* {
     margin-left: 10%;
     margin-right: 10%;
 }
+*/
+/* slide-title settint */
+
+.level1>h1 {
+  margin-top: 25%;
+}
+span.header-section-number {
+  margin-right: 0.5em;
+}
+.reveal li {
+  margin-top:0.2em;
+}
+.reveal ul ul li {
+  font-size:0.85em;
+  margin-top:0;
+}
+
 
 /* Open Sans 
 @import url(#{$font-family-open-sans-import-path}); */
