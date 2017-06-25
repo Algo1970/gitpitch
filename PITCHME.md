@@ -114,7 +114,7 @@ Custom size: not specified
 Image size defaults to 100% 100%
 
 +++
----?image=img/shigetomi.JPG
+---?image=img/soukisoba.JPG
 ### background
 Custom size: not specified
 Image size defaults to 100% 100%
