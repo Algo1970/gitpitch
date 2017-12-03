@@ -1,6 +1,7 @@
 # gitpitch
 
 gitpitch練習用のサンプルスライドです。
+https://gitpitch.com/Algo1970/gitpitch#　がスライドのURLになります。
 
 [slide](https://gitpitch.com/Algo1970/gitpitch#)  
 
