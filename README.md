@@ -6,6 +6,9 @@ https://gitpitch.com/Algo1970/gitpitch#　がスライドのURLになります�
 
 [slide](https://gitpitch.com/Algo1970/gitpitch#)  
 
+# 公式wiki
+https://github.com/gitpitch/gitpitch/wiki/Code-Slides
+
 # yaml
 
 PITCHME.yamlで保存
